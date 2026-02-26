@@ -31,5 +31,5 @@ Dados simulados de vendas da empresa.
 
 
 🚀 Como abrir
-Baixe o arquivo .pbix na pasta dashboard.
+- Baixe o arquivo .pbix na pasta dashboard.
 
